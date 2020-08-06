@@ -24,8 +24,8 @@
 		<version.testng>6.14.3</version.testng>
 
 		<!--AWS CONFIG PROPERTIES -->
-		<lambda.awsAccountId>786929956471</lambda.awsAccountId>
-		<lambda.roleName>daniel-lambda</lambda.roleName>
+		<lambda.awsAccountId>999999999999</lambda.awsAccountId>
+		<lambda.roleName>gerard-lambda</lambda.roleName>
 		<lambda.functionName>CloudTread</lambda.functionName>
 		<lambda.timeout>120</lambda.timeout>
 		<lambda.memorySize>1792</lambda.memorySize>
